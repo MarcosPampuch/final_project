@@ -40,6 +40,7 @@ um Delivery Stream do Kinesis;
 
 # Ilustracao Arquitetura
 
+![Ilustracao img](https://github.com/MarcosPampuch/final_project/assets/47998378/6a125ac6-9801-44d6-81e0-91a4d56c0df6)
 
 
 
