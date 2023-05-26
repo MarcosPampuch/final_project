@@ -19,7 +19,7 @@ Como key results desta ETL teremos:
 
 - Atualizacao da base com novos tweets por batches em um intervalo fixo de 5 minutos.
 
-## Methodos
+## Metodos
 
 1) Inicialmente, os dados serao extraidos da API do Twitter atraves de uma task ECS a qual sera acionada a cada 5 minutos por uma rule no cloudwatch;
 2) Apos receber os dados da requisicao, o container ECS redireciona a resposta (dados semi-estruturados) para 
